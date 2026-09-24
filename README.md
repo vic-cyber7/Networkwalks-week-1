@@ -18,7 +18,8 @@ for practicing Linux, networking, and cybersecurity skills.
 ### 1. Install 7-Zip.📦
 Download and install 7-Zip: https://www.7-zip.org/download.html
 ### 2. Install VirtualBox.💻
-Download and install VirtualBox on your PC : https://www.virtualbox.org/wiki/Downloads
+Download and install VirtualBox on your PC : https://www.virtualbox.org/wiki/Downloads <img width="893" height="511" alt="image" src="https://github.com/user-attachments/assets/52de12da-13f5-49cd-b99f-bf7b4c35d67c" />
+
 ### 3. Kali Linux.🐧
 Download and import the Kali Linux machine into VirtualBox: https://www.kali.org/get-kali/ <img width="1280" height="800" alt="Screenshot_2026-09-24_16_37_20" src="https://github.com/user-attachments/assets/269dab9d-e652-4eae-8d6b-0f99eca124fd" />
 
